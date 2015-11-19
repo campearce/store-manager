@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreManager.Api", "StoreManager.Api\StoreManager.Api.csproj", "{E242ED05-DFBC-4CE3-9ACF-56BA7FC4AF95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreManager.Model", "StoreManager.Model\StoreManager.Model.csproj", "{10247EB5-ADA1-417C-B982-835A7B43E296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E242ED05-DFBC-4CE3-9ACF-56BA7FC4AF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E242ED05-DFBC-4CE3-9ACF-56BA7FC4AF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E242ED05-DFBC-4CE3-9ACF-56BA7FC4AF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E242ED05-DFBC-4CE3-9ACF-56BA7FC4AF95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10247EB5-ADA1-417C-B982-835A7B43E296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10247EB5-ADA1-417C-B982-835A7B43E296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10247EB5-ADA1-417C-B982-835A7B43E296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10247EB5-ADA1-417C-B982-835A7B43E296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

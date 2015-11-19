@@ -1,0 +1,10 @@
+﻿[
+  {
+    "Id": "Store-1",
+    "Name": "Leeds Branch"
+  },
+  {
+    "Id": "Store-2",
+    "Name":  "Birmingham Branch"
+  }
+]
